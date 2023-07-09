@@ -1,0 +1,39 @@
+-i https://pypi.org/simple
+asgiref==3.7.2 ; python_version >= '3.7'
+async-timeout==4.0.2 ; python_full_version <= '3.11.2'
+attrs==23.1.0 ; python_version >= '3.7'
+autobahn==23.6.2 ; python_version >= '3.9'
+automat==22.10.0
+cffi==1.15.1
+cfgv==3.3.1 ; python_full_version >= '3.6.1'
+channels[daphne]==4.0.0
+channels-redis==4.1.0
+constantly==15.1.0
+cryptography==41.0.1 ; python_version >= '3.7'
+daphne==4.0.0
+distlib==0.3.6
+django==4.2.3
+filelock==3.12.2 ; python_version >= '3.7'
+hyperlink==21.0.0
+identify==2.5.24 ; python_version >= '3.7'
+idna==3.4
+incremental==22.10.0
+msgpack==1.0.5
+nodeenv==1.8.0 ; python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4, 3.5, 3.6'
+platformdirs==3.8.1 ; python_version >= '3.7'
+pre-commit==3.3.3
+pyasn1==0.5.0 ; python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4, 3.5'
+pyasn1-modules==0.3.0 ; python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4, 3.5'
+pycparser==2.21
+pyopenssl==23.2.0
+pyyaml==6.0 ; python_version >= '3.6'
+redis==4.6.0 ; python_version >= '3.7'
+service-identity==23.1.0
+setuptools==68.0.0 ; python_version >= '3.7'
+six==1.16.0 ; python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'
+sqlparse==0.4.4 ; python_version >= '3.5'
+twisted[tls]==22.10.0 ; python_full_version >= '3.7.1'
+txaio==23.1.1 ; python_version >= '3.7'
+typing-extensions==4.7.1 ; python_version >= '3.7'
+virtualenv==20.23.1 ; python_version >= '3.7'
+zope.interface==6.0 ; python_version >= '3.7'
